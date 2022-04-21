@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-
-AI enabled Tic-Tac-Toe game using.
+AI enabled Tic-Tac-Toe game using Minmax - Algorithm.
